@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Carousel duration={1000}></Carousel>
+         <Carousel duration={1000}></Carousel>
       </div>
     );
   }
